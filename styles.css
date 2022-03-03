@@ -1,0 +1,23 @@
+.myDiv{
+    background-color: whitesmoke;
+    text-align: center;
+    margin: auto;
+    width: 300px;
+    border: 6px solid white;
+    
+    
+}
+#id{
+    size-adjust: 2px;
+}
+
+body{
+    background-color: hsl(212, 45%, 89%)
+}
+p{
+   color: hsl(210, 7%, 32%);
+   text-align: center;
+}
+h2{
+    text-align: center;
+}
